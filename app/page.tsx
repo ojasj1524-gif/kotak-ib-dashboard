@@ -482,10 +482,10 @@ export default function Dashboard() {
             }}>
               <span style={{ color: "#CC0000", fontWeight: 900, fontSize: 12 }}>K</span>
             </div>
-            <span style={{ color: "#4A6A8A", fontSize: 12 }}>Kotak Investment Banking</span>
+            <span style={{ color: "#f3f5f7", fontSize: 12 }}>Kotak Investment Banking</span>
           </div>
           <span style={{ color: "#4A6A8A", fontSize: 11 }}>
-            Deal Analysis Dashboard · Analyst Program Application · April 2026
+            Deal Analysis Dashboard · Built by <span style={{ color: "#7BAFD4", fontWeight: 700 }}>Ojas Joshi</span> · Kotak Analyst Program Application · April 2026
           </span>
         </div>
       </footer>
